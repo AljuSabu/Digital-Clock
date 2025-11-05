@@ -49,7 +49,7 @@ A simple, responsive **digital clock** built using **HTML**, **TailwindCSS**, an
 
 1. **Clone or download** this repository:
     ```
-       git clone https://github.com/AljuSabu/Digital-Clock.git
+    git clone https://github.com/AljuSabu/Digital-Clock.git
     ```
 
 2. **Open the project folder:**
