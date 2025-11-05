@@ -8,9 +8,16 @@ let displayTime =()=>{
     let hrs = date.getHours()
     let min = date.getMinutes()
     let sec = date.getSeconds()
+    let hrsForsection = hrs
 
-    if(hrs>=12){
-        section.innerHTML = "PM"
+    if(hrs==0){
+        hrs = 12
+    }else if(hrs>12){
+        hrs = hrs - 12
+    }
+
+    if(hrsForsection>=12){
+        section.innerHTML = "PM" 
     }else{
         section.innerHTML = "AM"
     }
