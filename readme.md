@@ -49,13 +49,13 @@ A simple, responsive **digital clock** built using **HTML**, **TailwindCSS**, an
 
 1. **Clone or download** this repository:
     ```
-       git clone https://github.com/alju-sabu/digital-clock.git
+       git clone https://github.com/AljuSabu/Digital-Clock.git
     ```
 
 2. **Open the project folder:**
 
    ```
-   cd digital-clock
+   cd Digital-Clock
    ```
 3. **Run the project:**
    Simply open `index.html` in your web browser — no build steps needed.
@@ -66,7 +66,7 @@ A simple, responsive **digital clock** built using **HTML**, **TailwindCSS**, an
 
 ![DigitalClock](./images/digital%20clock.png)
 
-[live@]()
+[live@](https://aljusabu.github.io/Digital-Clock/)
 
 ---
 
